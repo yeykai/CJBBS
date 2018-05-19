@@ -1,0 +1,33 @@
+.register-content{
+	background: white;
+    box-shadow: 0 0 10px rgba(13, 5, 9, 0.27);
+	height: 580px;
+	border-top: 3px solid #DF6659;
+	margin-top: 100px;
+}
+.input{
+	max-width: 450px;
+}
+.form-register{
+	margin-top: 30px;
+	margin-bottom: 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+.gender{
+	float: left;
+	display: block;
+	width: 30px;
+	height: 27px;
+	margin-left: 10px;
+	line-height: 27px;
+}
+.gender-main{
+	margin-left: 50px;
+}
+.gender-radio{
+	margin-bottom: 15px;
+		color: #6a7989;
+	font-weight: bold;
+	font-size: 70.25%;
+}
